@@ -37,7 +37,7 @@ CREATE TABLE IF NOT EXISTS `food_list` (
   `usermade` varchar(30) NOT NULL,
   `creator_username` varchar(70) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=152 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=152 ;
 
 --
 -- 转存表中的数据 `food_list`
@@ -170,7 +170,7 @@ CREATE TABLE IF NOT EXISTS `user_polls` (
   `category` varchar(25) NOT NULL,
   `food_list_id` int(11) DEFAULT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=148 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=148 ;
 
 --
 -- 转存表中的数据 `user_polls`
@@ -199,7 +199,7 @@ CREATE TABLE IF NOT EXISTS `user_saved` (
   `food_list_id` int(11) NOT NULL,
   `category` varchar(30) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=57 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=57 ;
 
 --
 -- 转存表中的数据 `user_saved`
@@ -255,7 +255,7 @@ CREATE TABLE IF NOT EXISTS `user_votes` (
   `username` varchar(100) NOT NULL,
   `food_list_id` int(11) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=130 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=130 ;
 
 --
 -- 转存表中的数据 `user_votes`
