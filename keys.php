@@ -1,10 +1,10 @@
 <?php
  
-   $consumerKey1='MbXni0FJ3BF1huyii8mNYXK3A';
-   $consumerSecret1='M8w1GWryu7EvFpLvEoiN8BWIpc1QUwlaoe9XcX4KHcSQtftz3i';
+   $consumerKey1='KVpgMfZLdWg6df2L6KDls8CYl';
+   $consumerSecret1='IfbPJWRdhga2qJqhaSPe2xcgAyWOHkcScWZceh6BbBEhhDZT3i';
    
-   $consumerKey2='rxjUk95tq62i2kFcOcnflpgVr';
-   $consumerSecret2='ResUDC55QJuScEhOHSSrIWDQc1FBYwKcw5lLWkriV0TnFfjJa2';
+   $consumerKey2='d8gYX064pfRxNv53dnJHHIqCo';
+   $consumerSecret2='KrHCtF7C3VHHktmxcLj1b1BVcE9vSx4BLMRqDNQh1oGHbW80E5';
    
    
    
