@@ -27,3 +27,4 @@
         'failover' => array(),
         'save_queries' => TRUE
     );
+ ?>
