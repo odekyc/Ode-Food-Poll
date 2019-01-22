@@ -347,7 +347,7 @@ h5{
 #myfoods-span{
     position: absolute;
     left: 7px;
-    font-size: 0.8em;
+    font-size: 1.2em;
 }
 
 #newfood{
@@ -360,7 +360,7 @@ h5{
 #newfood-span{
     position: absolute;
     left: 5px;
-    font-size: 0.9em;
+    font-size: 1.2em;
 }
 
 #newfood:hover{
