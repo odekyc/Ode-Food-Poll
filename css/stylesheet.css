@@ -337,36 +337,38 @@ h5{
     left: 830px;
 }
 
-#mypolls{
+#myfoods{
      position: absolute;
      left: 935px;
      background-color: #ffff99;
      pointer-events: auto;
 }
 
-#mypolls-span{
+#myfoods-span{
     position: absolute;
     left: 7px;
+    font-size: 0.8em;
 }
 
-#newpoll{
+#newfood{
     position: absolute;
     left: 1040px;
     background-color: #ffb366;
     pointer-events: auto;
 }
 
-#newpoll-span{
+#newfood-span{
     position: absolute;
     left: 5px;
+    font-size: 0.9em;
 }
 
-#newpoll:hover{
+#newfood:hover{
     background-color: #ace600;
     
 }
 
-#mypolls:hover{
+#myfoods:hover{
     background-color: #ace600;
     
 }
