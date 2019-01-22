@@ -143,7 +143,7 @@
 </div>
 </div>
 </div>
-<div id="#ode-h5-div"><h5>This "Ode Food Poll" app is built by <a href="https://github.com/odelva">@Ode</a> of freecodecamp<br><br> following the instructions of <a href="https://www.freecodecamp.com/challenges/build-a-voting-app">"Basejump: Build a Voting App | Free Code Camp"</a><br><br>Github repository: <a href="https://github.com/odelva">https://github.com/odelva</a><br><br>Code Pen: <a href="http://codepen.io/odelva">http://codepen.io/odelva</a></h5>
+<div id="#ode-h5-div"><h5>This "Food Poll" app is built by <a href="https://github.com/odelva">@odelva</a> of freecodecamp<br><br> following the instructions of <a href="https://www.freecodecamp.com/challenges/build-a-voting-app">"Basejump: Build a Voting App | Free Code Camp"</a><br><br>Github repository: <a href="https://github.com/odelva">https://github.com/odelva</a><br><br>Code Pen: <a href="http://codepen.io/odelva">http://codepen.io/odelva</a></h5>
  </div>
 <script src="./js/jQuery-1.12.4.min.js"></script>
 <script type="text/javascript">
