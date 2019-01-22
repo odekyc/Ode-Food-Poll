@@ -56,8 +56,8 @@
 
 
 <script src="./js/angular-1.4.8.min.js"></script>
-<div id='upper-div'><h1 id='upper-div-title'>Ode-Food-Polls</h1><div id='home-div-in' class='block'><span class='block-span'>Home</span></div><div id='mypolls' class='block'><span id='mypolls-span' class='block-span'><center>My Polls</center></span><</div><div id='newpoll' class='block'><span id='newpoll-span' class='block-span'>New Poll</span><</div></div>
-     <div id='main-div'><div id='main-div-title'><span id='main-title-span'>Ode's Food Polls</span><span id='main-descrpt-span'>Below are polls hosted by Ode<br>Select a poll to see the results and vote, or sign-in to make a new poll.</span></div>
+<div id='upper-div'><h1 id='upper-div-title'>Food-Poll</h1><div id='home-div-in' class='block'><span class='block-span'>Home</span></div><div id='mypolls' class='block'><span id='mypolls-span' class='block-span'><center>My Foods</center></span><</div><div id='newpoll' class='block'><span id='newpoll-span' class='block-span'>New Food</span><</div></div>
+     <div id='main-div'><div id='main-div-title'><span id='main-title-span'>Food Poll</span><span id='main-descrpt-span'>Below is a list of common foods/ingredients <br>Select a food to see its voting results and place your vote, or sign-in<br>to add a new food.</span></div>
      <div id='central-div'>
        <?php
              $sql = "SELECT * FROM food_list ORDER BY category ASC";
