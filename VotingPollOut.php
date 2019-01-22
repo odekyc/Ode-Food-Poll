@@ -140,8 +140,8 @@
 
 
 <script src="./js/angular-1.4.8.min.js"></script>
-<div id='upper-div'><h1 id='upper-div-title'>Ode-Food-Poll</h1><div id='home-div-out' class='block'><span class='block-span'>Home</span></div></div> 
-       <div id='voting-poll-div'><div id="foodname-div"><span id="foodname-span"></span><span id="serving-std-span"></span><span id="serving_sz">Serving Size</span><span id="actual_serving_ct">(Servings Count)</span><span id="idliketovote">I'd Like to Vote For(Daily Serving Size):</span>
+<div id='upper-div'><h1 id='upper-div-title'>Food-Poll</h1><div id='home-div-out' class='block'><span class='block-span'>Home</span></div></div> 
+       <div id='voting-poll-div'><div id="foodname-div"><span id="foodname-span"></span><span id="serving-std-span"></span><span id="serving_sz"># of Servings Consumed Daily</span><span id="actual_serving_ct">(# of Votes)</span><span id="idliketovote">How Many Servings I Consume Daily:</span>
        <form action="UpdateVote.php" id="voteform" method="post">
            <select id="voteselect" name="votevalue">
               <option id="firstvoteop" value="0">first</option>
