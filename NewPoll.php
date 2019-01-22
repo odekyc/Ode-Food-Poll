@@ -60,7 +60,7 @@
   <input id="foodname-form" name="foodname" type="text" maxlength="56" required>
  <br>
  <div id="serving-stnd">
-  <h1 id="serving-stnd-title">Units of Measurement:</h1>
+  <h1 id="serving-stnd-title">Unit of Measurement:</h1>
   <h1><input id="serving-stnd-input" name="serving-stnd" type="text" maxlength="30" required>(s)</h1>
  </div> 
   
