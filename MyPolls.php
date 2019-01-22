@@ -51,7 +51,7 @@
 
 
 <div id='upper-div'><h1 id='upper-div-title'>Food-Poll</h1><div id='home-div-in' class='block'><span class='block-span'>Home</span></div><div id='mypolls' class='block'><span id='mypolls-span' class='block-span'><center>My Foods</center></span><</div><div id='newpoll' class='block'><span id='newpoll-span' class='block-span'>New Food</span></div></div>
-<div id='mypolls-main-div'><div id='main-div-title'><span id='main-title-span' style='left:450px;'>My Foods</span><span id='main-descrpt-span'>Below are your foods<br>Select a food to see the results of your votes, or <a style="color:#80ffbf;" href="NewPoll.php?oauth_token="+"<?php echo $_SESSION["oauth_token"] ?>"+"&oauth_verifier="+"<?php echo $_SESSION["oauth_verifier"] ?>"
+<div id='mypolls-main-div'><div id='main-div-title'><span id='main-title-span' style='left:650px;'>My Foods</span><span id='main-descrpt-span'>Below are your foods<br>Select a food to see the results of your votes, or <a style="color:#80ffbf;" href="NewPoll.php?oauth_token="+"<?php echo $_SESSION["oauth_token"] ?>"+"&oauth_verifier="+"<?php echo $_SESSION["oauth_verifier"] ?>"
 >add a new food</a>.</span></div>
 
 <div id='central-div'>
