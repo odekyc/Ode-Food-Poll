@@ -33,8 +33,8 @@
 
 <link rel='stylesheet' type='text/css' href='./css/stylesheet.css?<?php echo time(); ?>' />
 
-<div id='upper-div'><h1 id='upper-div-title'>Ode-Food-Polls</h1><div id='home-div-in' class='block'><span class='block-span'>Home</span></div><div id='mypolls' class='block'><span id='mypolls-span' class='block-span'><center>My Polls</center></span><</div><div id='newpoll' class='block'><span id='newpoll-span' class='block-span'>New Poll</span><</div></div>
-<div id='newpoll-main-div'><div id='newpoll-main-inner-div'><span id='newpoll-main-title-span'>Make a New Poll:</span>
+<div id='upper-div'><h1 id='upper-div-title'>Food-Poll</h1><div id='home-div-in' class='block'><span class='block-span'>Home</span></div><div id='mypolls' class='block'><span id='mypolls-span' class='block-span'><center>My Foods</center></span><</div><div id='newpoll' class='block'><span id='newpoll-span' class='block-span'>New Food</span><</div></div>
+<div id='newpoll-main-div'><div id='newpoll-main-inner-div'><span id='newpoll-main-title-span'>Add a New Food:</span>
 <div>
 <br>
 <br>
@@ -60,7 +60,7 @@
   <input id="foodname-form" name="foodname" type="text" maxlength="56" required>
  <br>
  <div id="serving-stnd">
-  <h1 id="serving-stnd-title">Serving Standard:</h1>
+  <h1 id="serving-stnd-title">Serving Units of Measurement:</h1>
   <h1><input id="serving-stnd-input" name="serving-stnd" type="text" maxlength="30" required>(s)</h1>
  </div> 
   
